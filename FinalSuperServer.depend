@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1401425638 source:d:\cbworkspace\finalsuperserver\server_ftp.c
+	"server.h"
+
+1401426188 d:\cbworkspace\finalsuperserver\server.h
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1401425638 source:d:\cbworkspace\finalsuperserver\server_uftp.c
+	"server.h"
+
+1401426122 source:d:\cbworkspace\finalsuperserver\server_web.c
+	"server.h"
+
+1401426188 source:d:\cbworkspace\finalsuperserver\super_srv.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	"server.h"
+
